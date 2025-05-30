@@ -13,6 +13,7 @@ A web-based application for applying various image processing filters to medical
   - Circle Tumor (Experimental – may not work properly on all images)
 - Real-time preview of filtered results
 - Easy-to-use and responsive GUI (built with Qt Designer)
+- Reset Filters if desired
 
 ## Usage
 
