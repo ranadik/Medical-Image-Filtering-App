@@ -10,6 +10,7 @@ A web-based application for applying various image processing filters to medical
   - Edge Detection
   - Precise Edge Detection
   - Threshold
+  - Otsu Filter
   - Circle Tumor (Experimental – may not work properly on all images)
 - Real-time preview of filtered results
 - Easy-to-use and responsive GUI (built with Qt Designer)
