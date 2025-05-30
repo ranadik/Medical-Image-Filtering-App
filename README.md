@@ -1,6 +1,6 @@
 # Medical Image Filtering App
 
-A web-based application for applying various image processing filters to medical images (e.g., X-rays, MRIs, CT scans). This tool is designed to assist medical professionals and researchers by enhancing image quality and highlighting critical features in the images.
+This project is for applying various image processing filters to medical images (e.g., X-rays, MRIs, CT scans). This tool is designed to assist medical professionals and researchers by enhancing image quality and highlighting critical features in the images. Designed using Qt Creator.
 
 ## Features
 
